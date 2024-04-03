@@ -1,0 +1,44 @@
+﻿  main.c
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(216,131): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(216,131): warning C4024: “case7_give”: 形参和实参 5 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,24): warning C4047: “函数”:“int *”与“int (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,24): warning C4024: “save_txt”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,41): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,41): warning C4024: “save_txt”: 形参和实参 3 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,56): warning C4047: “函数”:“float *”与“float (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(235,56): warning C4024: “save_txt”: 形参和实参 4 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(303,134): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(303,134): warning C4024: “case7_give”: 形参和实参 5 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,24): warning C4047: “函数”:“int *”与“int (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,24): warning C4024: “save_txt”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,41): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,41): warning C4024: “save_txt”: 形参和实参 3 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,56): warning C4047: “函数”:“float *”与“float (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(328,56): warning C4024: “save_txt”: 形参和实参 4 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(347,10): warning C4047: “函数”:“char *”与“char (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(347,10): warning C4024: “swap”: 形参和实参 1 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(347,37): warning C4047: “函数”:“char *”与“char (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(347,37): warning C4024: “swap”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(348,10): warning C4047: “函数”:“char *”与“char (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(348,10): warning C4024: “swap”: 形参和实参 1 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(348,43): warning C4047: “函数”:“char *”与“char (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(348,43): warning C4024: “swap”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,24): warning C4047: “函数”:“int *”与“int (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,24): warning C4024: “save_txt”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,41): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,41): warning C4024: “save_txt”: 形参和实参 3 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,56): warning C4047: “函数”:“float *”与“float (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(359,56): warning C4024: “save_txt”: 形参和实参 4 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,28): warning C4047: “函数”:“int *”与“int (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,28): warning C4024: “case7_sort1”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,51): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,51): warning C4024: “case7_sort1”: 形参和实参 3 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,72): warning C4047: “函数”:“float *”与“float (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(430,72): warning C4024: “case7_sort1”: 形参和实参 4 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,28): warning C4047: “函数”:“int *”与“int (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,28): warning C4024: “case7_sort2”: 形参和实参 2 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,51): warning C4047: “函数”:“char (*)[50]”与“char (*)[50][50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,51): warning C4024: “case7_sort2”: 形参和实参 3 的类型不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,72): warning C4047: “函数”:“float *”与“float (*)[50]”的间接级别不同
+C:\Users\0xsde\Desktop\C\商品管理系统\商品管理系统\main.c(451,72): warning C4024: “case7_sort2”: 形参和实参 4 的类型不同
+  商品管理系统.vcxproj -> C:\Users\0xsde\Desktop\C\商品管理系统\x64\Debug\商品管理系统.exe
